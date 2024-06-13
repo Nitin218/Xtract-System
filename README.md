@@ -38,4 +38,6 @@ Our primary goal is to demonstrate how users can train their custom object detec
 
 **Model Inference:** Once training is complete, your model is ready to use for inference. Upload images to detect objects with your trained model.
 
+**Click on the image below to see the video:**
+
 [![Xtract_System](http://img.youtube.com/vi/07vCBgLhP6M/0.jpg)](http://www.youtube.com/watch?v=07vCBgLhP6M"Xtract_System”)
